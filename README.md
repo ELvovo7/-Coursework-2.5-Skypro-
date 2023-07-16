@@ -1,6 +1,6 @@
 # Тест кабинета учителя в приложении Skyeng
 
-### [Тест план](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Тест%20план.md)
+### [Тест план](https://github.com/ELvovo7/-Coursework-2.5-Skypro-/blob/main/docs/Тест%20план.md)
 
 ### [1. Описание проекта](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Объект%20тестирования.md)
 
