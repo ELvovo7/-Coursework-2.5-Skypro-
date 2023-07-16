@@ -4,7 +4,7 @@
 
 ### [1. Описание проекта](https://github.com/ELvovo7/-Coursework-2.5-Skypro-/blob/main/docs/Описание%20проекта.md)
 
-### [2. Основные требования](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Основные%20требования.md)
+### [2. Основные требования](https://skyengpublic.notion.site/6746e543d02c43879de0057cafe196b0)
 
 ### [4. Тест документация](https://github.com/ELvovo7/-Coursework-3-Skypro-/blob/main/docs/Тестовая%20документация.md)
 
